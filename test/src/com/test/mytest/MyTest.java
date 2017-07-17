@@ -7,7 +7,7 @@ package com.test.mytest;
  * @version V1.0
  */
 public class MyTest {
-  public static void main(String[] args) {
-    System.out.println("测试Git");
-  }
+	public static void main(String[] args) {
+		System.out.println("我的第一个Git测试");
+	}
 }
